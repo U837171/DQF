@@ -1,0 +1,6 @@
+constraint,a1,a2,b
+x1_positive,-1,0,0
+x2_positive,0,-1,0
+risk_limit,2,1,10
+budget,1,2,9
+hedge_floor,-1,-1,-3
