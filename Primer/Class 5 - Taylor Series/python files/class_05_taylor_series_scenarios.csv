@@ -1,0 +1,9 @@
+scenario,shock
+dS_1,-12
+dS_2,-8
+dS_3,-4
+dS_4,-1
+dS_5,1
+dS_6,4
+dS_7,8
+dS_8,12
